@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Bruh its Media.Net</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Edit <code>src/App.tsx</code> trying something out<code>HMR</code>
           </p>
         </div>
         <button
