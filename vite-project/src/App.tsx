@@ -18,8 +18,11 @@ function App() {
         <div>
           <h1>Bruh its Media.Net</h1>
           <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            Edit <code>src/App.tsx</code> We gotta learn GitHub <code>HMR</code>
           </p>
+          <h1>
+            Hello this is Dikshant trying out Git Pull out game
+          </h1>
         </div>
         <button
           type="button"
