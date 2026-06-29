@@ -21,7 +21,8 @@ function App() {
             Edit <code>src/App.tsx</code> We gotta learn GitHub <code>HMR</code>
           </p>
           <h1>
-            Hello this is Dikshant trying out Git Pull out game
+            Hello this is Dikshant trying out Git Pull out game,
+            Here we go again
           </h1>
         </div>
         <button
