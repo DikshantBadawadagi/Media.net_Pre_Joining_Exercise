@@ -30,6 +30,11 @@ function App() {
             Change 1
           </h1>
         </div>
+        <div>
+          <h1>
+            Change 2
+          </h1>
+        </div>
         <button
           type="button"
           className="counter"
