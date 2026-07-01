@@ -32,7 +32,7 @@ function App() {
         </div>
         <div>
           <h1>
-            Change 2, merged conflict trying to resolve
+            Change2v from main
           </h1>
         </div>
         <div>
