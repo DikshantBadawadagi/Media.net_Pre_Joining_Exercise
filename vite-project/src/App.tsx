@@ -32,12 +32,7 @@ function App() {
         </div>
         <div>
           <h1>
-            Change2v from main
-          </h1>
-        </div>
-        <div>
-          <h1>
-            Trying out cherry pick
+            Change 2 from login
           </h1>
         </div>
         <div>
