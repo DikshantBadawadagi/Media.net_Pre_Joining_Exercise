@@ -32,7 +32,12 @@ function App() {
         </div>
         <div>
           <h1>
-            Change 2
+            Change 2, merge conflict
+          </h1>
+        </div>
+        <div>
+          <h1>
+            Trying out cherry pick
           </h1>
         </div>
         <div>
