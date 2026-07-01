@@ -32,7 +32,7 @@ function App() {
         </div>
         <div>
           <h1>
-            Change 2
+            Change 2 from login
           </h1>
         </div>
         <div>
