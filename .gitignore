@@ -1,0 +1,12 @@
+#all node_modules from all directories
+**/node_modules/**
+#all package-lock.json from all directories
+**/package-lock.json
+#all package.json from all directories
+**/package.json
+#all yarn.lock from all directories
+**/yarn.lock
+#all pnpm-lock.yaml from all directories
+**/pnpm-lock.yaml
+#all pnpm-workspace.yaml from all directories
+**/pnpm-workspace.yaml
